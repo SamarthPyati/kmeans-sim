@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py'": "python",
+        "tk_project": "python",
+        "stdlib.h": "c",
+        "raymath.h": "c",
+        "complex": "c",
+        "unordered_map": "c"
+    }
+}
