@@ -3,4 +3,5 @@ kmeans
 nob.old
 nob
 .vscode 
-
+.vscode/
+kmeans.dSYM/
